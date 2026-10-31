@@ -44,9 +44,9 @@ classifiers = [
 
 [project.urls]
 
-Homepage = "https://github.com/jobkubera-lab/kuberajob"
+Homepage = "https://github.com/kubera-lab/kuberajob"
 
-Source = "https://github.com/jobkubera-lab/kuberajob/tree/main/tools/kubera-migration-checklist"
+Source = "https://github.com/kubera-lab/kuberajob/tree/main/tools/kubera-migration-checklist"
 
 
 
